@@ -1,7 +1,6 @@
 CREATE DATABASE ECOMMERCE;
 USE ECOMMERCE;
 
---create tables
 CREATE TABLE Customer (
     Cust_ID INT PRIMARY KEY,
     Cust_Name VARCHAR(255),
